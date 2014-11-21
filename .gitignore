@@ -1,3 +1,5 @@
 /bin
 /src/LitJson/AssemblyInfo.cs
 /website
+obj/
+LitJson.csproj
